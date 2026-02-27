@@ -1,6 +1,6 @@
 # Smart Agriculture Mizhi
 
-A 3D smart-agriculture video monitoring and visualization project built with **Vue 3 + Cesium + WebGL**, designed for high-standard farmland scenarios, including camera management, video-scene fusion, and spatial analysis.
+A 3D smart-agriculture video monitoring and visualization project focused on Mizhi County, Shaanxi Province, PRC, built with **Vue 3 + Cesium + WebGL**, designed for high-standard farmland scenarios, including camera management, video-scene fusion, and spatial analysis.
 
 
 ## Project Overview
