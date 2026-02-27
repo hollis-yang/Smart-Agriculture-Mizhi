@@ -2,7 +2,6 @@
 
 A 3D smart-agriculture video monitoring and visualization project built with **Vue 3 + Cesium + WebGL**, designed for high-standard farmland scenarios, including camera management, video-scene fusion, and spatial analysis.
 
----
 
 ## Project Overview
 
@@ -13,15 +12,12 @@ This project demonstrates how agricultural video surveillance can be integrated 
 - Interactive editing of camera pose and position parameters
 - Management console for devices and users
 
----
 
 ## Core Tech Stack
 
 - Vue 3, Vite, Pinia
 - Cesium
 - WebGL
-
----
 
 
 ## Acknowledgement
